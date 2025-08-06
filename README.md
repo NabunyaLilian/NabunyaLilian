@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Lilian Nabunya
 
-<!--
-**NabunyaLilian/NabunyaLilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter Mobile Developer with 5+ years experience building scalable, user-friendly apps and backend systems.
 
-Here are some ideas to get you started:
+- 🧭 Experienced in government-scale projects like AskURA and EFRIS (Flutter + Java microservices)
+- 🚀 Skilled in designing Clean Architecture and implementing CI/CD pipelines
+- 🛠️ Strong background in Flutter, Java, Kotlin, Spring Boot, Firebase, and microservices
+- 📚 Passionate about mentoring, documentation, and delivering high-quality, maintainable code
+- 🌍 Open to relocation for Europe or Canada with visa sponsorship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+Flutter • Dart • Java • Kotlin • Spring Boot • Microservices • Firebase • CI/CD • REST APIs • Git • Figma • Agile
+
+---
+
+## 📂 Public Projects
+
+Most of my professional work is private (hosted on GitLab), but here are some personal projects showcasing my Flutter UI skills and coding style:
+
+- [flutter_ui_portfolio](#) — A demo repo with reusable Flutter UI components and clean architecture
+- [auth_ui_kit](#) — Custom Flutter login and registration widgets with validation and social login
+
+---
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/nabunya-lilian) • Email: liliannabunya2@gmail.com
+
+---
+
+Thanks for visiting my profile!
