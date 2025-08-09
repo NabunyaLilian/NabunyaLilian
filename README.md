@@ -21,7 +21,7 @@ Flutter • Dart • Java • Kotlin • Spring Boot • Microservices • Fireb
 Most of my professional work is private (hosted on GitLab), but here are some personal projects showcasing my Flutter UI skills and coding style:
 
 - [flutter_ui_portfolio](#) — A demo repo with reusable Flutter UI components and clean architecture
-- [auth_ui_kit](#) — Custom Flutter login and registration widgets with validation and social login
+- [auth_ui_kit](https://github.com/NabunyaLilian/auth-ui-kit) — Custom Flutter login and registration widgets with validation and social login
 - [donut Flutter UI](https://github.com/NabunyaLilian/donutAppUI)- Custom UI for a dounut app
 
 ---
