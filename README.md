@@ -22,7 +22,7 @@ Most of my professional work is private (hosted on GitLab), but here are some pe
 
 - [flutter_ui_portfolio](#) — A demo repo with reusable Flutter UI components and clean architecture
 - [auth_ui_kit](#) — Custom Flutter login and registration widgets with validation and social login
-- [donut API](https://github.com/NabunyaLilian/donutAppUI)- Custom UI for a dounut app
+- [donut Flutter UI](https://github.com/NabunyaLilian/donutAppUI)- Custom UI for a dounut app
 
 ---
 
